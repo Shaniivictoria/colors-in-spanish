@@ -1,0 +1,45 @@
+*{
+    text-align: center;
+    
+}
+
+#red{
+    font-weight: normal;
+    color: red;
+}
+
+#blue{
+    font-weight: normal;
+    color: blue;
+    
+}
+
+#yellow{
+    font-weight: normal;
+    color: yellow;
+}
+
+#orange{
+    font-weight: normal;
+    color: orange;
+}
+
+#pink{
+    font-weight: normal;
+    color: pink;
+}
+
+#brown{
+    font-weight: normal;
+    color: brown;
+}
+
+#black{
+    font-weight: normal;
+    color: black;
+}
+
+.color{
+    height: 50px;
+    width: 60px;
+}
